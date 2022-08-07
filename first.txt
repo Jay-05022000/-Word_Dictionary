@@ -1,3 +1,0 @@
-This is a first file of master branch.
-
-Update - This is a first file of slave branch.
