@@ -1,5 +1,4 @@
 This is my first try of pushing code on Github using Git.
 I have created Github repository named 'Exercise_1'.
 
-
-This is good.
+The Exercise_1 file includes code for introduction to dictionary and its usage.
